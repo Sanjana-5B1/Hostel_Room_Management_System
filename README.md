@@ -20,18 +20,21 @@ This system provides a user-friendly GUI to manage students, allocate rooms, and
 
 ##  Project Structure
 
-Hostel_Managment_System/
- ├── src/
- │    └── hostel/
- │         ├── Student.java
- │         ├── Room.java
- │         ├── SingleRoom.java
- │         ├── MultiRoom.java
- │         ├── Hostel.java
- │         ├── HostelManager.java
- │         └── MainUI.java
- ├── README.md
- └── .gitignore
+Hostel_Room_Management_System/
+│
+├── src/
+│ └── hostel/
+│ ├── Student.java
+│ ├── Room.java
+│ ├── SingleRoom.java
+│ ├── MultiRoom.java
+│ ├── Hostel.java
+│ ├── HostelBranch.java
+│ ├── HostelManager.java
+│ └── MainUI.java
+│
+├── README.md
+└── .gitignore
 
  
 ---
