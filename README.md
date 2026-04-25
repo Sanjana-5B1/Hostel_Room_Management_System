@@ -21,7 +21,7 @@ This system provides a user-friendly GUI to manage students, allocate rooms, and
 ```
 
 ##  Project Structure
-
+```
 Hostel_Room_Management_System/
 │
 ├── src/
@@ -37,7 +37,7 @@ Hostel_Room_Management_System/
 │
 ├── README.md
 └── .gitignore
-
+```
  
 ---
 
