@@ -7,6 +7,7 @@ This system provides a user-friendly GUI to manage students, allocate rooms, and
 
 ##  Features
 
+```
 -  Student Registration
 -  Multiple Hostel Branch Management
 -  Room Allocation (Single / Multi-bed)
@@ -17,6 +18,7 @@ This system provides a user-friendly GUI to manage students, allocate rooms, and
 -  Visual Room Grid (Color-coded availability)
 
 ---
+```
 
 ##  Project Structure
 
