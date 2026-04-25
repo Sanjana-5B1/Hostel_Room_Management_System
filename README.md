@@ -79,15 +79,57 @@ Each student is uniquely identified using roll number (no duplicates allowed glo
 
 ---
 
-##  How to Run
+## How to Run the Project
 
-1. Clone the repository:
+### Step 1: Clone Repository
+
 ```bash
-step 1: Clone Repository
 git clone https://github.com/Sanjana-5B1/Hostel_Room_Management_System.git
-Step 2: Navigate to Source Folder
+```
+
+### Step 2: Navigate to Source Folder
+
+```bash
 cd Hostel_Room_Managment_System/src
-Step 3: Compile Java Files
+```
+
+### Step 3: Compile Java Files
+
+```bash
 javac hostel/*.java
-Step 4: Run Application
-java hostel.MainUI 
+```
+
+### Step 4: Run Application
+
+```bash
+java hostel.MainUI
+```
+
+---
+
+## Future Enhancements
+
+* Add GUI using Java Swing / JavaFX
+* Integrate database (MySQL)
+* Add authentication system
+* Convert into web application
+
+---
+
+## Learning Outcomes
+
+* Practical implementation of OOP concepts
+* Improved Java coding skills
+* Understanding real-world project structure
+
+---
+
+## License
+
+This project is for educational purposes.
+
+---
+
+## Author
+
+**Sanjana Penchala**
